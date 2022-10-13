@@ -1,0 +1,31 @@
+<htm>
+      
+
+     <head>
+    
+<title> DMPI  </title>
+
+
+     </head>
+
+
+   <body>
+ <h1>Dhaka Mohila Polyechnic Institute</h1>
+<h2>Dhaka Mohila Polyechnic Institute</h2>
+<h3>Dhaka Mohila Polyechnic Institute</h3>
+<h4>Dhaka Mohila Polyechnic Institute</h4>
+
+
+<p>Dhaka Mohila Polyechnic Institute</p>
+
+<p><b><i>Dhaka Mohila Polyechnic Institute</p></b></i>
+<img src="https://i.gifer.com/GYny.gif">
+
+<img src="images/dengu.jpg">
+
+<h1> <a href="http://fb.com" target="_blank"> Facebook </a></h1> 
+<iframe width="400" height="225" src="https://www.youtube.com/embed/7xv0JXiSVeQ?list=PLxqLmn_MNa-TSzWohJ0TMxYizHp2yqosQ" title="CBT&A Methodology for Trainer and Assessor Level-IV - Inclusive Learning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    </body>
+
+</htm>
